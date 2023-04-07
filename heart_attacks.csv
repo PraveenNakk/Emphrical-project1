@@ -1,0 +1,304 @@
+Age,Sex,Chest_Pain_Type,Resting_Blood_Pressure,Cholesterol,Fasting_Blood_Sugar,Resting_ECG_Results,Max_Heart_Rate_Achieved,Exercise_Induced_Angina,Old_Peak,Slope,Num_Major_Vessels,Thalassemia,Heart_Attack_Prediction
+63,male,non-anginal pain,145,233,1,normal,150,no,2.3,0,0,normal,more chance of heart attack
+37,male,atypical angina,130,250,0,ST-T wave abnormality,187,no,3.5,0,0,fixed defect,more chance of heart attack
+41,female,typical angina,130,204,0,normal,172,no,1.4,flat,0,fixed defect,more chance of heart attack
+56,male,typical angina,120,236,0,ST-T wave abnormality,178,no,0.8,flat,0,fixed defect,more chance of heart attack
+57,female,0,120,354,0,ST-T wave abnormality,163,yes,0.6,flat,0,fixed defect,more chance of heart attack
+57,male,0,140,192,0,ST-T wave abnormality,148,no,0.4,upsloping,0,normal,more chance of heart attack
+56,female,typical angina,140,294,0,normal,153,no,1.3,upsloping,0,fixed defect,more chance of heart attack
+44,male,typical angina,120,263,0,ST-T wave abnormality,173,no,0.0,flat,0,reversible defect,more chance of heart attack
+52,male,atypical angina,172,199,1,ST-T wave abnormality,162,no,0.5,flat,0,reversible defect,more chance of heart attack
+57,male,atypical angina,150,168,0,ST-T wave abnormality,174,no,1.6,flat,0,fixed defect,more chance of heart attack
+54,male,0,140,239,0,ST-T wave abnormality,160,no,1.2,flat,0,fixed defect,more chance of heart attack
+48,female,atypical angina,130,275,0,ST-T wave abnormality,139,no,0.2,flat,0,fixed defect,more chance of heart attack
+49,male,typical angina,130,266,0,ST-T wave abnormality,171,no,0.6,flat,0,fixed defect,more chance of heart attack
+64,male,non-anginal pain,110,211,0,normal,144,yes,1.8,upsloping,0,fixed defect,more chance of heart attack
+58,female,non-anginal pain,150,283,1,normal,162,no,1.0,flat,0,fixed defect,more chance of heart attack
+50,female,atypical angina,120,219,0,ST-T wave abnormality,158,no,1.6,upsloping,0,fixed defect,more chance of heart attack
+58,female,atypical angina,120,340,0,ST-T wave abnormality,172,no,0.0,flat,0,fixed defect,more chance of heart attack
+66,female,non-anginal pain,150,226,0,ST-T wave abnormality,114,no,2.6,0,0,fixed defect,more chance of heart attack
+43,male,0,150,247,0,ST-T wave abnormality,171,no,1.5,flat,0,fixed defect,more chance of heart attack
+69,female,non-anginal pain,140,239,0,ST-T wave abnormality,151,no,1.8,flat,2,fixed defect,more chance of heart attack
+59,male,0,135,234,0,ST-T wave abnormality,161,no,0.5,upsloping,0,reversible defect,more chance of heart attack
+44,male,atypical angina,130,233,0,ST-T wave abnormality,179,yes,0.4,flat,0,fixed defect,more chance of heart attack
+42,male,0,140,226,0,ST-T wave abnormality,178,no,0.0,flat,0,fixed defect,more chance of heart attack
+61,male,atypical angina,150,243,1,ST-T wave abnormality,137,yes,1.0,upsloping,0,fixed defect,more chance of heart attack
+40,male,non-anginal pain,140,199,0,ST-T wave abnormality,178,yes,1.4,flat,0,reversible defect,more chance of heart attack
+71,female,typical angina,160,302,0,ST-T wave abnormality,162,no,0.4,flat,2,fixed defect,more chance of heart attack
+59,male,atypical angina,150,212,1,ST-T wave abnormality,157,no,1.6,flat,0,fixed defect,more chance of heart attack
+51,male,atypical angina,110,175,0,ST-T wave abnormality,123,no,0.6,flat,0,fixed defect,more chance of heart attack
+65,female,atypical angina,140,417,1,normal,157,no,0.8,flat,1,fixed defect,more chance of heart attack
+53,male,atypical angina,130,197,1,normal,152,no,1.2,0,0,fixed defect,more chance of heart attack
+41,female,typical angina,105,198,0,ST-T wave abnormality,168,no,0.0,flat,1,fixed defect,more chance of heart attack
+65,male,0,120,177,0,ST-T wave abnormality,140,no,0.4,flat,0,reversible defect,more chance of heart attack
+44,male,typical angina,130,219,0,normal,188,no,0.0,flat,0,fixed defect,more chance of heart attack
+54,male,atypical angina,125,273,0,normal,152,no,0.5,0,1,fixed defect,more chance of heart attack
+51,male,non-anginal pain,125,213,0,normal,125,yes,1.4,flat,1,fixed defect,more chance of heart attack
+46,female,atypical angina,142,177,0,normal,160,yes,1.4,0,0,fixed defect,more chance of heart attack
+54,female,atypical angina,135,304,1,ST-T wave abnormality,170,no,0.0,flat,0,fixed defect,more chance of heart attack
+54,male,atypical angina,150,232,0,normal,165,no,1.6,flat,0,reversible defect,more chance of heart attack
+65,female,atypical angina,155,269,0,ST-T wave abnormality,148,no,0.8,flat,0,fixed defect,more chance of heart attack
+65,female,atypical angina,160,360,0,normal,151,no,0.8,flat,0,fixed defect,more chance of heart attack
+51,female,atypical angina,140,308,0,normal,142,no,1.5,flat,1,fixed defect,more chance of heart attack
+48,male,typical angina,130,245,0,normal,180,no,0.2,upsloping,0,fixed defect,more chance of heart attack
+45,male,0,104,208,0,normal,148,yes,3.0,upsloping,0,fixed defect,more chance of heart attack
+53,female,0,130,264,0,normal,143,no,0.4,upsloping,0,fixed defect,more chance of heart attack
+39,male,atypical angina,140,321,0,normal,182,no,0.0,flat,0,fixed defect,more chance of heart attack
+52,male,typical angina,120,325,0,ST-T wave abnormality,172,no,0.2,flat,0,fixed defect,more chance of heart attack
+44,male,atypical angina,140,235,0,normal,180,no,0.0,flat,0,fixed defect,more chance of heart attack
+47,male,atypical angina,138,257,0,normal,156,no,0.0,flat,0,fixed defect,more chance of heart attack
+53,female,atypical angina,128,216,0,normal,115,no,0.0,flat,0,0,more chance of heart attack
+53,female,0,138,234,0,normal,160,no,0.0,flat,0,fixed defect,more chance of heart attack
+51,female,atypical angina,130,256,0,normal,149,no,0.5,flat,0,fixed defect,more chance of heart attack
+66,male,0,120,302,0,normal,151,no,0.4,upsloping,0,fixed defect,more chance of heart attack
+62,male,atypical angina,130,231,0,ST-T wave abnormality,146,no,1.8,upsloping,3,reversible defect,more chance of heart attack
+44,female,atypical angina,108,141,0,ST-T wave abnormality,175,no,0.6,upsloping,0,fixed defect,more chance of heart attack
+63,female,atypical angina,135,252,0,normal,172,no,0.0,flat,0,fixed defect,more chance of heart attack
+52,male,typical angina,134,201,0,ST-T wave abnormality,158,no,0.8,flat,1,fixed defect,more chance of heart attack
+48,male,0,122,222,0,normal,186,no,0.0,flat,0,fixed defect,more chance of heart attack
+45,male,0,115,260,0,normal,185,no,0.0,flat,0,fixed defect,more chance of heart attack
+34,male,non-anginal pain,118,182,0,normal,174,no,0.0,flat,0,fixed defect,more chance of heart attack
+57,female,0,128,303,0,normal,159,no,0.0,flat,1,fixed defect,more chance of heart attack
+71,female,atypical angina,110,265,1,normal,130,no,0.0,flat,1,fixed defect,more chance of heart attack
+54,male,typical angina,108,309,0,ST-T wave abnormality,156,no,0.0,flat,0,reversible defect,more chance of heart attack
+52,male,non-anginal pain,118,186,0,normal,190,no,0.0,upsloping,0,normal,more chance of heart attack
+41,male,typical angina,135,203,0,ST-T wave abnormality,132,no,0.0,upsloping,0,normal,more chance of heart attack
+58,male,atypical angina,140,211,1,normal,165,no,0.0,flat,0,fixed defect,more chance of heart attack
+35,female,0,138,183,0,ST-T wave abnormality,182,no,1.4,flat,0,fixed defect,more chance of heart attack
+51,male,atypical angina,100,222,0,ST-T wave abnormality,143,yes,1.2,upsloping,0,fixed defect,more chance of heart attack
+45,female,typical angina,130,234,0,normal,175,no,0.6,upsloping,0,fixed defect,more chance of heart attack
+44,male,typical angina,120,220,0,ST-T wave abnormality,170,no,0.0,flat,0,fixed defect,more chance of heart attack
+62,female,0,124,209,0,ST-T wave abnormality,163,no,0.0,flat,0,fixed defect,more chance of heart attack
+54,male,atypical angina,120,258,0,normal,147,no,0.4,upsloping,0,reversible defect,more chance of heart attack
+51,male,atypical angina,94,227,0,ST-T wave abnormality,154,yes,0.0,flat,1,reversible defect,more chance of heart attack
+29,male,typical angina,130,204,0,normal,202,no,0.0,flat,0,fixed defect,more chance of heart attack
+51,male,0,140,261,0,normal,186,yes,0.0,flat,0,fixed defect,more chance of heart attack
+43,female,atypical angina,122,213,0,ST-T wave abnormality,165,no,0.2,upsloping,0,fixed defect,more chance of heart attack
+55,female,typical angina,135,250,0,normal,161,no,1.4,upsloping,0,fixed defect,more chance of heart attack
+51,male,atypical angina,125,245,1,normal,166,no,2.4,upsloping,0,fixed defect,more chance of heart attack
+59,male,typical angina,140,221,0,ST-T wave abnormality,164,yes,0.0,flat,0,fixed defect,more chance of heart attack
+52,male,typical angina,128,205,1,ST-T wave abnormality,184,no,0.0,flat,0,fixed defect,more chance of heart attack
+58,male,atypical angina,105,240,0,normal,154,yes,0.6,upsloping,0,reversible defect,more chance of heart attack
+41,male,atypical angina,112,250,0,ST-T wave abnormality,179,no,0.0,flat,0,fixed defect,more chance of heart attack
+45,male,typical angina,128,308,0,normal,170,no,0.0,flat,0,fixed defect,more chance of heart attack
+60,female,atypical angina,102,318,0,ST-T wave abnormality,160,no,0.0,flat,1,fixed defect,more chance of heart attack
+52,male,non-anginal pain,152,298,1,ST-T wave abnormality,178,no,1.2,upsloping,0,reversible defect,more chance of heart attack
+42,female,0,102,265,0,normal,122,no,0.6,upsloping,0,fixed defect,more chance of heart attack
+67,female,atypical angina,115,564,0,normal,160,no,1.6,upsloping,0,reversible defect,more chance of heart attack
+68,male,atypical angina,118,277,0,ST-T wave abnormality,151,no,1.0,flat,1,reversible defect,more chance of heart attack
+46,male,typical angina,101,197,1,ST-T wave abnormality,156,no,0.0,flat,0,reversible defect,more chance of heart attack
+54,female,atypical angina,110,214,0,ST-T wave abnormality,158,no,1.6,upsloping,0,fixed defect,more chance of heart attack
+58,female,0,100,248,0,normal,122,no,1.0,upsloping,0,fixed defect,more chance of heart attack
+48,male,atypical angina,124,255,1,ST-T wave abnormality,175,no,0.0,flat,2,fixed defect,more chance of heart attack
+57,male,0,132,207,0,ST-T wave abnormality,168,yes,0.0,flat,0,reversible defect,more chance of heart attack
+52,male,atypical angina,138,223,0,ST-T wave abnormality,169,no,0.0,flat,4,fixed defect,more chance of heart attack
+54,female,typical angina,132,288,1,normal,159,yes,0.0,flat,1,fixed defect,more chance of heart attack
+45,female,typical angina,112,160,0,ST-T wave abnormality,138,no,0.0,upsloping,0,fixed defect,more chance of heart attack
+53,male,0,142,226,0,normal,111,yes,0.0,flat,0,reversible defect,more chance of heart attack
+62,female,0,140,394,0,normal,157,no,1.2,upsloping,0,fixed defect,more chance of heart attack
+52,male,0,108,233,1,ST-T wave abnormality,147,no,0.1,flat,3,reversible defect,more chance of heart attack
+43,male,atypical angina,130,315,0,ST-T wave abnormality,162,no,1.9,flat,1,fixed defect,more chance of heart attack
+53,male,atypical angina,130,246,1,normal,173,no,0.0,flat,3,fixed defect,more chance of heart attack
+42,male,non-anginal pain,148,244,0,normal,178,no,0.8,flat,2,fixed defect,more chance of heart attack
+59,male,non-anginal pain,178,270,0,normal,145,no,4.2,0,0,reversible defect,more chance of heart attack
+63,female,typical angina,140,195,0,ST-T wave abnormality,179,no,0.0,flat,2,fixed defect,more chance of heart attack
+42,male,atypical angina,120,240,1,ST-T wave abnormality,194,no,0.8,0,0,reversible defect,more chance of heart attack
+50,male,atypical angina,129,196,0,ST-T wave abnormality,163,no,0.0,flat,0,fixed defect,more chance of heart attack
+68,female,atypical angina,120,211,0,normal,115,no,1.5,upsloping,0,fixed defect,more chance of heart attack
+69,male,non-anginal pain,160,234,1,normal,131,no,0.1,upsloping,1,fixed defect,more chance of heart attack
+45,female,0,138,236,0,normal,152,yes,0.2,upsloping,0,fixed defect,more chance of heart attack
+50,female,typical angina,120,244,0,ST-T wave abnormality,162,no,1.1,flat,0,fixed defect,more chance of heart attack
+50,female,0,110,254,0,normal,159,no,0.0,flat,0,fixed defect,more chance of heart attack
+64,female,0,180,325,0,ST-T wave abnormality,154,yes,0.0,flat,0,fixed defect,more chance of heart attack
+57,male,atypical angina,150,126,1,ST-T wave abnormality,173,no,0.2,flat,1,reversible defect,more chance of heart attack
+64,female,atypical angina,140,313,0,ST-T wave abnormality,133,no,0.2,flat,0,reversible defect,more chance of heart attack
+43,male,0,110,211,0,ST-T wave abnormality,161,no,0.0,flat,0,reversible defect,more chance of heart attack
+55,male,typical angina,130,262,0,ST-T wave abnormality,155,no,0.0,flat,0,fixed defect,more chance of heart attack
+37,female,atypical angina,120,215,0,ST-T wave abnormality,170,no,0.0,flat,0,fixed defect,more chance of heart attack
+41,male,atypical angina,130,214,0,normal,168,no,2.0,upsloping,0,fixed defect,more chance of heart attack
+56,male,non-anginal pain,120,193,0,normal,162,no,1.9,upsloping,0,reversible defect,more chance of heart attack
+46,female,typical angina,105,204,0,ST-T wave abnormality,172,no,0.0,flat,0,fixed defect,more chance of heart attack
+46,female,0,138,243,0,normal,152,yes,0.0,upsloping,0,fixed defect,more chance of heart attack
+64,female,0,130,303,0,ST-T wave abnormality,122,no,2.0,upsloping,2,fixed defect,more chance of heart attack
+59,male,0,138,271,0,normal,182,no,0.0,flat,0,fixed defect,more chance of heart attack
+41,female,atypical angina,112,268,0,normal,172,yes,0.0,flat,0,fixed defect,more chance of heart attack
+54,female,atypical angina,108,267,0,normal,167,no,0.0,flat,0,fixed defect,more chance of heart attack
+39,female,atypical angina,94,199,0,ST-T wave abnormality,179,no,0.0,flat,0,fixed defect,more chance of heart attack
+34,female,typical angina,118,210,0,ST-T wave abnormality,192,no,0.7,flat,0,fixed defect,more chance of heart attack
+47,male,0,112,204,0,ST-T wave abnormality,143,no,0.1,flat,0,fixed defect,more chance of heart attack
+67,female,atypical angina,152,277,0,ST-T wave abnormality,172,no,0.0,flat,1,fixed defect,more chance of heart attack
+52,female,atypical angina,136,196,0,normal,169,no,0.1,upsloping,0,fixed defect,more chance of heart attack
+74,female,typical angina,120,269,0,normal,121,yes,0.2,flat,1,fixed defect,more chance of heart attack
+54,female,atypical angina,160,201,0,ST-T wave abnormality,163,no,0.0,flat,1,fixed defect,more chance of heart attack
+49,female,typical angina,134,271,0,ST-T wave abnormality,162,no,0.0,upsloping,0,fixed defect,more chance of heart attack
+42,male,typical angina,120,295,0,ST-T wave abnormality,162,no,0.0,flat,0,fixed defect,more chance of heart attack
+41,male,typical angina,110,235,0,ST-T wave abnormality,153,no,0.0,flat,0,fixed defect,more chance of heart attack
+41,female,typical angina,126,306,0,ST-T wave abnormality,163,no,0.0,flat,0,fixed defect,more chance of heart attack
+49,female,0,130,269,0,ST-T wave abnormality,163,no,0.0,flat,0,fixed defect,more chance of heart attack
+60,female,atypical angina,120,178,1,ST-T wave abnormality,96,no,0.0,flat,0,fixed defect,more chance of heart attack
+62,male,typical angina,128,208,1,normal,140,no,0.0,flat,0,fixed defect,more chance of heart attack
+57,male,0,110,201,0,ST-T wave abnormality,126,yes,1.5,upsloping,0,normal,more chance of heart attack
+64,male,0,128,263,0,ST-T wave abnormality,105,yes,0.2,upsloping,1,reversible defect,more chance of heart attack
+51,female,atypical angina,120,295,0,normal,157,no,0.6,flat,0,fixed defect,more chance of heart attack
+43,male,0,115,303,0,ST-T wave abnormality,181,no,1.2,upsloping,0,fixed defect,more chance of heart attack
+42,female,atypical angina,120,209,0,ST-T wave abnormality,173,no,0.0,upsloping,0,fixed defect,more chance of heart attack
+67,female,0,106,223,0,ST-T wave abnormality,142,no,0.3,flat,2,fixed defect,more chance of heart attack
+76,female,atypical angina,140,197,0,left ventricular hypertrophy,116,no,1.1,upsloping,0,fixed defect,more chance of heart attack
+70,male,typical angina,156,245,0,normal,143,no,0.0,flat,0,fixed defect,more chance of heart attack
+44,female,atypical angina,118,242,0,ST-T wave abnormality,149,no,0.3,upsloping,1,fixed defect,more chance of heart attack
+60,female,non-anginal pain,150,240,0,ST-T wave abnormality,171,no,0.9,flat,0,fixed defect,more chance of heart attack
+44,male,atypical angina,120,226,0,ST-T wave abnormality,169,no,0.0,flat,0,fixed defect,more chance of heart attack
+42,male,atypical angina,130,180,0,ST-T wave abnormality,150,no,0.0,flat,0,fixed defect,more chance of heart attack
+66,male,0,160,228,0,normal,138,no,2.3,flat,0,normal,more chance of heart attack
+71,female,0,112,149,0,ST-T wave abnormality,125,no,1.6,upsloping,0,fixed defect,more chance of heart attack
+64,male,non-anginal pain,170,227,0,normal,155,no,0.6,upsloping,0,reversible defect,more chance of heart attack
+66,female,atypical angina,146,278,0,normal,152,no,0.0,upsloping,1,fixed defect,more chance of heart attack
+39,female,atypical angina,138,220,0,ST-T wave abnormality,152,no,0.0,upsloping,0,fixed defect,more chance of heart attack
+58,female,0,130,197,0,ST-T wave abnormality,131,no,0.6,upsloping,0,fixed defect,more chance of heart attack
+47,male,atypical angina,130,253,0,ST-T wave abnormality,179,no,0.0,flat,0,fixed defect,more chance of heart attack
+35,male,typical angina,122,192,0,ST-T wave abnormality,174,no,0.0,flat,0,fixed defect,more chance of heart attack
+58,male,typical angina,125,220,0,ST-T wave abnormality,144,no,0.4,upsloping,4,reversible defect,more chance of heart attack
+56,male,typical angina,130,221,0,normal,163,no,0.0,flat,0,reversible defect,more chance of heart attack
+56,male,typical angina,120,240,0,ST-T wave abnormality,169,no,0.0,0,0,fixed defect,more chance of heart attack
+55,female,typical angina,132,342,0,ST-T wave abnormality,166,no,1.2,flat,0,fixed defect,more chance of heart attack
+41,male,typical angina,120,157,0,ST-T wave abnormality,182,no,0.0,flat,0,fixed defect,more chance of heart attack
+38,male,atypical angina,138,175,0,ST-T wave abnormality,173,no,0.0,flat,4,fixed defect,more chance of heart attack
+38,male,atypical angina,138,175,0,ST-T wave abnormality,173,no,0.0,flat,4,fixed defect,more chance of heart attack
+67,male,0,160,286,0,normal,108,yes,1.5,upsloping,3,fixed defect,less chance of heart attack
+67,male,0,120,229,0,normal,129,yes,2.6,upsloping,2,reversible defect,less chance of heart attack
+62,female,0,140,268,0,normal,160,no,3.6,0,2,fixed defect,less chance of heart attack
+63,male,0,130,254,0,normal,147,no,1.4,upsloping,1,reversible defect,less chance of heart attack
+53,male,0,140,203,1,normal,155,yes,3.1,0,0,reversible defect,less chance of heart attack
+56,male,atypical angina,130,256,1,normal,142,yes,0.6,upsloping,1,normal,less chance of heart attack
+48,male,typical angina,110,229,0,ST-T wave abnormality,168,no,1.0,0,0,reversible defect,less chance of heart attack
+58,male,typical angina,120,284,0,normal,160,no,1.8,upsloping,0,fixed defect,less chance of heart attack
+58,male,atypical angina,132,224,0,normal,173,no,3.2,flat,2,reversible defect,less chance of heart attack
+60,male,0,130,206,0,normal,132,yes,2.4,upsloping,2,reversible defect,less chance of heart attack
+40,male,0,110,167,0,normal,114,yes,2.0,upsloping,0,reversible defect,less chance of heart attack
+60,male,0,117,230,1,ST-T wave abnormality,160,yes,1.4,flat,2,reversible defect,less chance of heart attack
+64,male,atypical angina,140,335,0,ST-T wave abnormality,158,no,0.0,flat,0,fixed defect,less chance of heart attack
+43,male,0,120,177,0,normal,120,yes,2.5,upsloping,0,reversible defect,less chance of heart attack
+57,male,0,150,276,0,normal,112,yes,0.6,upsloping,1,normal,less chance of heart attack
+55,male,0,132,353,0,ST-T wave abnormality,132,yes,1.2,upsloping,1,reversible defect,less chance of heart attack
+65,female,0,150,225,0,normal,114,no,1.0,upsloping,3,reversible defect,less chance of heart attack
+61,female,0,130,330,0,normal,169,no,0.0,flat,0,fixed defect,less chance of heart attack
+58,male,atypical angina,112,230,0,normal,165,no,2.5,upsloping,1,reversible defect,less chance of heart attack
+50,male,0,150,243,0,normal,128,no,2.6,upsloping,0,reversible defect,less chance of heart attack
+44,male,0,112,290,0,normal,153,no,0.0,flat,1,fixed defect,less chance of heart attack
+60,male,0,130,253,0,ST-T wave abnormality,144,yes,1.4,flat,1,reversible defect,less chance of heart attack
+54,male,0,124,266,0,normal,109,yes,2.2,upsloping,1,reversible defect,less chance of heart attack
+50,male,atypical angina,140,233,0,ST-T wave abnormality,163,no,0.6,upsloping,1,reversible defect,less chance of heart attack
+41,male,0,110,172,0,normal,158,no,0.0,flat,0,reversible defect,less chance of heart attack
+51,female,0,130,305,0,ST-T wave abnormality,142,yes,1.2,upsloping,0,reversible defect,less chance of heart attack
+58,male,0,128,216,0,normal,131,yes,2.2,upsloping,3,reversible defect,less chance of heart attack
+54,male,0,120,188,0,ST-T wave abnormality,113,no,1.4,upsloping,1,reversible defect,less chance of heart attack
+60,male,0,145,282,0,normal,142,yes,2.8,upsloping,2,reversible defect,less chance of heart attack
+60,male,atypical angina,140,185,0,normal,155,no,3.0,upsloping,0,fixed defect,less chance of heart attack
+59,male,0,170,326,0,normal,140,yes,3.4,0,0,reversible defect,less chance of heart attack
+46,male,atypical angina,150,231,0,ST-T wave abnormality,147,no,3.6,upsloping,0,fixed defect,less chance of heart attack
+67,male,0,125,254,1,ST-T wave abnormality,163,no,0.2,upsloping,2,reversible defect,less chance of heart attack
+62,male,0,120,267,0,ST-T wave abnormality,99,yes,1.8,upsloping,2,reversible defect,less chance of heart attack
+65,male,0,110,248,0,normal,158,no,0.6,flat,2,normal,less chance of heart attack
+44,male,0,110,197,0,normal,177,no,0.0,flat,1,fixed defect,less chance of heart attack
+60,male,0,125,258,0,normal,141,yes,2.8,upsloping,1,reversible defect,less chance of heart attack
+58,male,0,150,270,0,normal,111,yes,0.8,flat,0,reversible defect,less chance of heart attack
+68,male,atypical angina,180,274,1,normal,150,yes,1.6,upsloping,0,reversible defect,less chance of heart attack
+62,female,0,160,164,0,normal,145,no,6.2,0,3,reversible defect,less chance of heart attack
+52,male,0,128,255,0,ST-T wave abnormality,161,yes,0.0,flat,1,reversible defect,less chance of heart attack
+59,male,0,110,239,0,normal,142,yes,1.2,upsloping,1,reversible defect,less chance of heart attack
+60,female,0,150,258,0,normal,157,no,2.6,upsloping,2,reversible defect,less chance of heart attack
+49,male,atypical angina,120,188,0,ST-T wave abnormality,139,no,2.0,upsloping,3,reversible defect,less chance of heart attack
+59,male,0,140,177,0,ST-T wave abnormality,162,yes,0.0,flat,1,reversible defect,less chance of heart attack
+57,male,atypical angina,128,229,0,normal,150,no,0.4,upsloping,1,reversible defect,less chance of heart attack
+61,male,0,120,260,0,ST-T wave abnormality,140,yes,3.6,upsloping,1,reversible defect,less chance of heart attack
+39,male,0,118,219,0,ST-T wave abnormality,140,no,1.2,upsloping,0,reversible defect,less chance of heart attack
+61,female,0,145,307,0,normal,146,yes,1.0,upsloping,0,reversible defect,less chance of heart attack
+56,male,0,125,249,1,normal,144,yes,1.2,upsloping,1,fixed defect,less chance of heart attack
+43,female,0,132,341,1,normal,136,yes,3.0,upsloping,0,reversible defect,less chance of heart attack
+62,female,atypical angina,130,263,0,ST-T wave abnormality,97,no,1.2,upsloping,1,reversible defect,less chance of heart attack
+63,male,0,130,330,1,normal,132,yes,1.8,flat,3,reversible defect,less chance of heart attack
+65,male,0,135,254,0,normal,127,no,2.8,upsloping,1,reversible defect,less chance of heart attack
+48,male,0,130,256,1,normal,150,yes,0.0,flat,2,reversible defect,less chance of heart attack
+63,female,0,150,407,0,normal,154,no,4.0,upsloping,3,reversible defect,less chance of heart attack
+55,male,0,140,217,0,ST-T wave abnormality,111,yes,5.6,0,0,reversible defect,less chance of heart attack
+65,male,non-anginal pain,138,282,1,normal,174,no,1.4,upsloping,1,fixed defect,less chance of heart attack
+56,female,0,200,288,1,normal,133,yes,4.0,0,2,reversible defect,less chance of heart attack
+54,male,0,110,239,0,ST-T wave abnormality,126,yes,2.8,upsloping,1,reversible defect,less chance of heart attack
+70,male,0,145,174,0,ST-T wave abnormality,125,yes,2.6,0,0,reversible defect,less chance of heart attack
+62,male,typical angina,120,281,0,normal,103,no,1.4,upsloping,1,reversible defect,less chance of heart attack
+35,male,0,120,198,0,ST-T wave abnormality,130,yes,1.6,upsloping,0,reversible defect,less chance of heart attack
+59,male,non-anginal pain,170,288,0,normal,159,no,0.2,upsloping,0,reversible defect,less chance of heart attack
+64,male,atypical angina,125,309,0,ST-T wave abnormality,131,yes,1.8,upsloping,0,reversible defect,less chance of heart attack
+47,male,atypical angina,108,243,0,ST-T wave abnormality,152,no,0.0,flat,0,fixed defect,less chance of heart attack
+57,male,0,165,289,1,normal,124,no,1.0,upsloping,3,reversible defect,less chance of heart attack
+55,male,0,160,289,0,normal,145,yes,0.8,upsloping,1,reversible defect,less chance of heart attack
+64,male,0,120,246,0,normal,96,yes,2.2,0,1,fixed defect,less chance of heart attack
+70,male,0,130,322,0,normal,109,no,2.4,upsloping,3,fixed defect,less chance of heart attack
+51,male,0,140,299,0,ST-T wave abnormality,173,yes,1.6,flat,0,reversible defect,less chance of heart attack
+58,male,0,125,300,0,normal,171,no,0.0,flat,2,reversible defect,less chance of heart attack
+60,male,0,140,293,0,normal,170,no,1.2,upsloping,2,reversible defect,less chance of heart attack
+77,male,0,125,304,0,normal,162,yes,0.0,flat,3,fixed defect,less chance of heart attack
+35,male,0,126,282,0,normal,156,yes,0.0,flat,0,reversible defect,less chance of heart attack
+70,male,atypical angina,160,269,0,ST-T wave abnormality,112,yes,2.9,upsloping,1,reversible defect,less chance of heart attack
+59,female,0,174,249,0,ST-T wave abnormality,143,yes,0.0,upsloping,0,fixed defect,less chance of heart attack
+64,male,0,145,212,0,normal,132,no,2.0,upsloping,2,normal,less chance of heart attack
+57,male,0,152,274,0,ST-T wave abnormality,88,yes,1.2,upsloping,1,reversible defect,less chance of heart attack
+56,male,0,132,184,0,normal,105,yes,2.1,upsloping,1,normal,less chance of heart attack
+48,male,0,124,274,0,normal,166,no,0.5,upsloping,0,reversible defect,less chance of heart attack
+56,female,0,134,409,0,normal,150,yes,1.9,upsloping,2,reversible defect,less chance of heart attack
+66,male,typical angina,160,246,0,ST-T wave abnormality,120,yes,0.0,upsloping,3,normal,less chance of heart attack
+54,male,typical angina,192,283,0,normal,195,no,0.0,flat,1,reversible defect,less chance of heart attack
+69,male,atypical angina,140,254,0,normal,146,no,2.0,upsloping,3,reversible defect,less chance of heart attack
+51,male,0,140,298,0,ST-T wave abnormality,122,yes,4.2,upsloping,3,reversible defect,less chance of heart attack
+43,male,0,132,247,1,normal,143,yes,0.1,upsloping,4,reversible defect,less chance of heart attack
+62,female,0,138,294,1,ST-T wave abnormality,106,no,1.9,upsloping,3,fixed defect,less chance of heart attack
+67,male,0,100,299,0,normal,125,yes,0.9,upsloping,2,fixed defect,less chance of heart attack
+59,male,non-anginal pain,160,273,0,normal,125,no,0.0,flat,0,fixed defect,less chance of heart attack
+45,male,0,142,309,0,normal,147,yes,0.0,upsloping,3,reversible defect,less chance of heart attack
+58,male,0,128,259,0,normal,130,yes,3.0,upsloping,2,reversible defect,less chance of heart attack
+50,male,0,144,200,0,normal,126,yes,0.9,upsloping,0,reversible defect,less chance of heart attack
+62,female,0,150,244,0,ST-T wave abnormality,154,yes,1.4,upsloping,0,fixed defect,less chance of heart attack
+38,male,non-anginal pain,120,231,0,ST-T wave abnormality,182,yes,3.8,upsloping,0,reversible defect,less chance of heart attack
+66,female,0,178,228,1,ST-T wave abnormality,165,yes,1.0,upsloping,2,reversible defect,less chance of heart attack
+52,male,0,112,230,0,ST-T wave abnormality,160,no,0.0,flat,1,fixed defect,less chance of heart attack
+53,male,0,123,282,0,ST-T wave abnormality,95,yes,2.0,upsloping,2,reversible defect,less chance of heart attack
+63,female,0,108,269,0,ST-T wave abnormality,169,yes,1.8,upsloping,2,fixed defect,less chance of heart attack
+54,male,0,110,206,0,normal,108,yes,0.0,upsloping,1,fixed defect,less chance of heart attack
+66,male,0,112,212,0,normal,132,yes,0.1,flat,1,fixed defect,less chance of heart attack
+55,female,0,180,327,0,left ventricular hypertrophy,117,yes,3.4,upsloping,0,fixed defect,less chance of heart attack
+49,male,atypical angina,118,149,0,normal,126,no,0.8,flat,3,fixed defect,less chance of heart attack
+54,male,0,122,286,0,normal,116,yes,3.2,upsloping,2,fixed defect,less chance of heart attack
+56,male,0,130,283,1,normal,103,yes,1.6,0,0,reversible defect,less chance of heart attack
+46,male,0,120,249,0,normal,144,no,0.8,flat,0,reversible defect,less chance of heart attack
+61,male,non-anginal pain,134,234,0,ST-T wave abnormality,145,no,2.6,upsloping,2,fixed defect,less chance of heart attack
+67,male,0,120,237,0,ST-T wave abnormality,71,no,1.0,upsloping,0,fixed defect,less chance of heart attack
+58,male,0,100,234,0,ST-T wave abnormality,156,no,0.1,flat,1,reversible defect,less chance of heart attack
+47,male,0,110,275,0,normal,118,yes,1.0,upsloping,1,fixed defect,less chance of heart attack
+52,male,0,125,212,0,ST-T wave abnormality,168,no,1.0,flat,2,reversible defect,less chance of heart attack
+58,male,0,146,218,0,ST-T wave abnormality,105,no,2.0,upsloping,1,reversible defect,less chance of heart attack
+57,male,typical angina,124,261,0,ST-T wave abnormality,141,no,0.3,flat,0,reversible defect,less chance of heart attack
+58,female,typical angina,136,319,1,normal,152,no,0.0,flat,2,fixed defect,less chance of heart attack
+61,male,0,138,166,0,normal,125,yes,3.6,upsloping,1,fixed defect,less chance of heart attack
+42,male,0,136,315,0,ST-T wave abnormality,125,yes,1.8,upsloping,0,normal,less chance of heart attack
+52,male,0,128,204,1,ST-T wave abnormality,156,yes,1.0,upsloping,0,0,less chance of heart attack
+59,male,atypical angina,126,218,1,ST-T wave abnormality,134,no,2.2,upsloping,1,normal,less chance of heart attack
+40,male,0,152,223,0,ST-T wave abnormality,181,no,0.0,flat,0,reversible defect,less chance of heart attack
+61,male,0,140,207,0,normal,138,yes,1.9,flat,1,reversible defect,less chance of heart attack
+46,male,0,140,311,0,ST-T wave abnormality,120,yes,1.8,upsloping,2,reversible defect,less chance of heart attack
+59,male,non-anginal pain,134,204,0,ST-T wave abnormality,162,no,0.8,flat,2,fixed defect,less chance of heart attack
+57,male,typical angina,154,232,0,normal,164,no,0.0,flat,1,fixed defect,less chance of heart attack
+57,male,0,110,335,0,ST-T wave abnormality,143,yes,3.0,upsloping,1,reversible defect,less chance of heart attack
+55,female,0,128,205,0,left ventricular hypertrophy,130,yes,2.0,upsloping,1,reversible defect,less chance of heart attack
+61,male,0,148,203,0,ST-T wave abnormality,161,no,0.0,flat,1,reversible defect,less chance of heart attack
+58,male,0,114,318,0,left ventricular hypertrophy,140,no,4.4,0,3,normal,less chance of heart attack
+58,female,0,170,225,1,normal,146,yes,2.8,upsloping,2,normal,less chance of heart attack
+67,male,atypical angina,152,212,0,normal,150,no,0.8,upsloping,0,reversible defect,less chance of heart attack
+44,male,0,120,169,0,ST-T wave abnormality,144,yes,2.8,0,0,normal,less chance of heart attack
+63,male,0,140,187,0,normal,144,yes,4.0,flat,2,reversible defect,less chance of heart attack
+63,female,0,124,197,0,ST-T wave abnormality,136,yes,0.0,upsloping,0,fixed defect,less chance of heart attack
+59,male,0,164,176,1,normal,90,no,1.0,upsloping,2,normal,less chance of heart attack
+57,female,0,140,241,0,ST-T wave abnormality,123,yes,0.2,upsloping,0,reversible defect,less chance of heart attack
+45,male,non-anginal pain,110,264,0,ST-T wave abnormality,132,no,1.2,upsloping,0,reversible defect,less chance of heart attack
+68,male,0,144,193,1,ST-T wave abnormality,141,no,3.4,upsloping,2,reversible defect,less chance of heart attack
+57,male,0,130,131,0,ST-T wave abnormality,115,yes,1.2,upsloping,1,reversible defect,less chance of heart attack
+57,female,typical angina,130,236,0,normal,174,no,0.0,upsloping,1,fixed defect,less chance of heart attack
